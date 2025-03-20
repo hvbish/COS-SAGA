@@ -1,0 +1,4 @@
+# chi2=91.27
+# reduced_chi2=0.86
+ion,z,z_e,vhel,vhel_e,v_in_gal,v_in_gal_e,b,b_e,flag,logN,logN_e
+HI,0.004981,4e-06,1493.27,1.2,31.5,1.2,23.82,2.02,=,13.96,0.04
